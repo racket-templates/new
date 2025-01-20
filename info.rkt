@@ -18,6 +18,6 @@
   '(("new"
      (submod new main)
      "Install a repo from a template at racket-templates" 50)
-    ("from-template"
+    ("new-from-template"
      (submod new main)
      "Install a repo from a template at racket-templates" 50)))
